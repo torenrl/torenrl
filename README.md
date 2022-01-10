@@ -1,1 +1,1 @@
-R%D engineer at Nordic Semiconductor
+R&D engineer at Nordic Semiconductor
