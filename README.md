@@ -6,4 +6,4 @@
 * **System level programming**: Rust
 * **Scripting**: Python, bash/zsh, do, tcl
 * **Documentation**: MarkDown, LaTeX
-* **System**: Linux (and yeah, Windows)
+* **System**: Linux and Windows
