@@ -2,7 +2,7 @@
 
 ## Languages used
 * **HDL**: SystemVerilog
-* **Embedded low level**: c and c++
+* **Embedded low level**: c and c++, bare metal and Zephyr
 * **System level programming**: Rust
 * **Scripting**: Python, bash/zsh, do, tcl
 * **Documentation**: MarkDown, LaTeX
