@@ -5,6 +5,7 @@
 * **Embedded low level**: c and c++, bare metal and Zephyr
 * **Android application**: Kotlin
 * **System level programming**: Rust
-* **Scripting**: Python, bash/zsh, do, tcl
+* **UI**: TypeScript react & redux
+* **Scripting**: Python, bash/zsh
 * **Documentation**: MarkDown, LaTeX
 * **System**: Linux and Windows
